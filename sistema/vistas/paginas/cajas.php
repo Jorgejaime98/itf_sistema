@@ -1,8 +1,9 @@
 <main>
     <div class="container-fluid">
-        <h1 class="mt-4">Dashboard</h1>
         <ol class="breadcrumb mb-4">
-            <li class="breadcrumb-item active">Dashboard</li>
+            <div class="d-flex flex-row">
+                <h4 class="mt-1 mb-0 mr-2">Inicio</h4>
+            </div>
         </ol>
         <div class="row">
             <div class="col-6 col-sm-6 col-md-6 col-lg-5 col-xl-3 p-1">

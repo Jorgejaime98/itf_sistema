@@ -11,6 +11,7 @@
              * otros archivos.
              */
             include "vistas/base.php";
+            include "vistas/paginas/crud_registros_usuarios.php";
         }
     }
 ?>
